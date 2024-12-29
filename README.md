@@ -1,4 +1,7 @@
 # Hi there 👋
+
+Security professional with expertise in SecOps, now focused on learning and growing in Detection Engineering.
+
 <!--
 **cyberket96/cyberket96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
