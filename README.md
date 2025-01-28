@@ -20,6 +20,13 @@ I’m a **Cybersecurity Enthusiast** with a **Bachelor's degree in Cybersecurity
 
 ---
 
+## 🚧 What I Am Working On
+
+- **Elastics Operations Scripts:** 
+  - Working on the bash scripts to automate elasticsearch and kibana operations using bash scripts.
+
+---
+
 ## ⚙️ Tools & Technologies
 
 - **Security Monitoring & SIEM:** Splunk, ELK Stack
