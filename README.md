@@ -2,8 +2,6 @@
 
 I’m a **Cybersecurity Enthusiast** with a **Bachelor's degree in Cybersecurity**. I’m passionate about learning and improving in the field of **Security Operations**, and **Threat Intelligence**. I’m currently exploring **Detection Engineering** and aiming to grow my skills in this area.
 
----
-
 ## 🔐 What I Do
 
 - **Security Operations (SecOps):** 
@@ -78,20 +76,3 @@ I’m a **Cybersecurity Enthusiast** with a **Bachelor's degree in Cybersecurity
 - I love solving security problems and learning new things every day.
 - When I’m not working on cybersecurity, I enjoy reading about tech and exploring new tools.
 - I like sharing what I learn with others through blogs or online discussions.
-
----
-
-<!--
-**cyberket96/cyberket96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
