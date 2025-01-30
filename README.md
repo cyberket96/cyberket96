@@ -16,14 +16,12 @@ I’m a **Cybersecurity Enthusiast** with a **Bachelor's degree in Cybersecurity
 - **Detection Engineering:**
   - I’m learning how to build detection rules and improve the way systems identify security threats.
 
----
 
 ## 🚧 What I Am Working On
 
 - **Elastics Operations Scripts:** 
   - Working on the bash scripts to automate elasticsearch and kibana operations using bash scripts.
 
----
 
 ## ⚙️ Tools & Technologies
 
@@ -34,7 +32,6 @@ I’m a **Cybersecurity Enthusiast** with a **Bachelor's degree in Cybersecurity
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyberket96&count_private=true&show_icons=true&hide=prs&theme=radical)](https://github.com/cyberket96)
 
----
 <!--
 ## 🔍 Projects
 
@@ -47,8 +44,6 @@ I’m a **Cybersecurity Enthusiast** with a **Bachelor's degree in Cybersecurity
 
 ### [💻 Detection Engineering Rules](https://github.com/cyberket/detection-engineering)
 - Learning how to build detection rules to identify security threats and improve overall security systems.
-
----
 
 ## 📧 How to Reach Me
 
@@ -63,13 +58,9 @@ I’m a **Cybersecurity Enthusiast** with a **Bachelor's degree in Cybersecurity
 - **Detection Engineering:** I’m working on improving how security systems detect attacks and threats.
 - **Threat Hunting:** Learning how to search for hidden threats within systems.
 
----
-
 ## 📈 GitHub Stats
 
 ![Your streak](https://github-readme-streak-stats.herokuapp.com/?user=cyberket96&theme=dark)
-
----
 
 ## 🌍 Fun Facts
 
