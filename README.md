@@ -2,6 +2,11 @@
 
 I’m a **Cybersecurity Enthusiast** with a **Bachelor's degree in Cybersecurity**. I’m passionate about learning and improving in the field of **Security Operations**, and **Threat Intelligence**. I’m currently exploring **Detection Engineering** and aiming to grow my skills in this area.
 
+## 🚧 What I Am Working On
+
+- **Elastics Operations Scripts:** 
+  - Working on the bash scripts to automate elasticsearch and kibana operations using bash scripts.
+
 ## 🔐 What I Do
 
 - **Security Operations (SecOps):** 
@@ -16,13 +21,6 @@ I’m a **Cybersecurity Enthusiast** with a **Bachelor's degree in Cybersecurity
 - **Detection Engineering:**
   - I’m learning how to build detection rules and improve the way systems identify security threats.
 
-
-## 🚧 What I Am Working On
-
-- **Elastics Operations Scripts:** 
-  - Working on the bash scripts to automate elasticsearch and kibana operations using bash scripts.
-
-
 ## ⚙️ Tools & Technologies
 
 - **Security Monitoring & SIEM:** Splunk, ELK Stack
@@ -30,9 +28,9 @@ I’m a **Cybersecurity Enthusiast** with a **Bachelor's degree in Cybersecurity
 - **Threat Intelligence Tools:** MISP, SOCRadar
 - **Scripting & Automation:** Python
 
+<!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyberket96&count_private=true&show_icons=true&hide=prs&theme=radical)](https://github.com/cyberket96)
 
-<!--
 ## 🔍 Projects
 
 ### Static Malware Analysis USing Python
@@ -52,7 +50,7 @@ I’m a **Cybersecurity Enthusiast** with a **Bachelor's degree in Cybersecurity
 - **Twitter:** [@cyberket](https://twitter.com/cyberket)
 
 ---
--->
+
 ## 🧠 Currently Learning
 
 - **Detection Engineering:** I’m working on improving how security systems detect attacks and threats.
@@ -67,3 +65,5 @@ I’m a **Cybersecurity Enthusiast** with a **Bachelor's degree in Cybersecurity
 - I love solving security problems and learning new things every day.
 - When I’m not working on cybersecurity, I enjoy reading about tech and exploring new tools.
 - I like sharing what I learn with others through blogs or online discussions.
+
+-->
