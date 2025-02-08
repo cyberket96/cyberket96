@@ -20,7 +20,7 @@ I’m a **Cybersecurity Enthusiast** with a **Bachelor's degree in Cybersecurity
 
 - **Detection Engineering:**
   - I’m learning how to build detection rules and improve the way systems identify security threats.
-
+<!--
 ## ⚙️ Tools & Technologies
 
 - **Security Monitoring & SIEM:** Splunk, ELK Stack
@@ -28,7 +28,6 @@ I’m a **Cybersecurity Enthusiast** with a **Bachelor's degree in Cybersecurity
 - **Threat Intelligence Tools:** MISP, SOCRadar
 - **Scripting & Automation:** Python
 
-<!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyberket96&count_private=true&show_icons=true&hide=prs&theme=radical)](https://github.com/cyberket96)
 
 ## 🔍 Projects
