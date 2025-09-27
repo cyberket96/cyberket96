@@ -20,6 +20,30 @@ I’m a **Cybersecurity Enthusiast** with a **Bachelor's degree in Cybersecurity
 
 - **Detection Engineering:**
   - I’m learning how to build detection rules and improve the way systems identify security threats.
+ 
+
+---
+
+### 🔬 Featured Project: Static Malware Analysis Using Python
+
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      <p>This was a key project from my <strong>BSc in Cyber Security</strong>, where I developed a Python tool to automate the static analysis of suspicious files. The goal was to create a safe, first-response tool for analysts to quickly triage potential threats without execution.</p>
+      <p><strong>Key Skills & Features Demonstrated:</strong></p>
+      <ul>
+        <li><strong>Automation:</strong> Automated the initial malware triage process.</li>
+        <li><strong>File Parsing:</strong> Extracted file hashes (MD5, SHA-256), PE headers, and imported functions to understand a file's capabilities.</li>
+        <li><strong>Data Analysis:</strong> Performed entropy and string analysis to detect packed code and extract Indicators of Compromise (IoCs).</li>
+        <li><strong>Reporting:</strong> Generated a clean, summary report for further investigation.</li>
+      </ul>
+      <p>This project is officially registered under copyright with the Government of India.</p>
+      <p><strong><a href="https://github.com/cyberket96/Static-Malware-Analysis-Using-Python">Explore the Full Project on GitHub &rarr;</a></strong></p>
+    
+  </tr>
+</table>
+
+---
 <!--
 ## ⚙️ Tools & Technologies
 
