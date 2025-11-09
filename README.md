@@ -2,6 +2,7 @@
 
 I’m a **Cybersecurity Enthusiast** with a **Bachelor's degree in Cybersecurity**. I’m passionate about learning and improving in the field of **Security Operations**, and **Threat Intelligence**. I’m currently exploring **Detection Engineering** and aiming to grow my skills in this area.
 
+<!--
 ## 🚧 What I Am Working On
 
 - **Elastics Operations Scripts:** 
@@ -44,7 +45,7 @@ I’m a **Cybersecurity Enthusiast** with a **Bachelor's degree in Cybersecurity
 </table>
 
 ---
-<!--
+
 ## ⚙️ Tools & Technologies
 
 - **Security Monitoring & SIEM:** Splunk, ELK Stack
